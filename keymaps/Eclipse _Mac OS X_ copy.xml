@@ -1,0 +1,48 @@
+<keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
+  <action id="AutoIndentLines" />
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoFile" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="meta i" />
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta 1" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="TypeHierarchy.BaseOnThisType">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="TypeHierarchyBase.BaseOnThisType">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+</keymap>
